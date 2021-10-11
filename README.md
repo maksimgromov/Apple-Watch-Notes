@@ -1,7 +1,7 @@
 #  Notes App
 
 
->This is learning project. Simple Notes app for Apple Watch using AppStorage and SwiftUI.  You can create, delete notes. Also you can change notes line limit using Settings.
+>This is learning project. Simple Notes app for Apple Watch using AppStorage and SwiftUI.  You can create and delete notes. Also you can change note line limit using Settings.
 
 
 ![](Documentation/AppIcon.png)
